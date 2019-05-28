@@ -30,7 +30,7 @@
     </parent>
     <groupId>org.exoplatform.addons.push-notifications</groupId>
     <artifactId>exo-push-notifications</artifactId>
-    <version>1.1.x-acc222-SNAPSHOT</version>
+    <version>1.1.1-acc222-01</version>
     <packaging>pom</packaging>
     <name>eXo Add-on:: eXo Push notifications addon</name>
     <description>eXo Push notifications addon</description>
@@ -42,7 +42,7 @@
     <scm>
         <connection>scm:git:git://github.com/exoplatform/${artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:exoplatform/${artifactId}.git</developerConnection>
-        <tag>1.1.1</tag>
+        <tag>1.1.1-acc222-01</tag>
         <url>https://github.com/exoplatform/${artifactId}</url>
     </scm>
 
