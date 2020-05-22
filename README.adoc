@@ -35,7 +35,7 @@ In order to push mobile notifications to the eXo Android app, follow these steps
 * Go to the Firebase console.
 * In the center of the project overview page, click the iOS icon to launch the setup workflow.
 * If you've already added an app to your Firebase project, click Add app to display the platform options.
-* Enter your app's bundle ID in the iOS bundle ID field. (Make sure that you enter the ID that your app is actually using.) 
+* Enter your app's bundle ID in the iOS bundle ID field. (Make sure to enter the ID your app is actually using.) 
 * (Optional) Enter other app information: App nickname and App Store ID.
 * Click Register app.
 
